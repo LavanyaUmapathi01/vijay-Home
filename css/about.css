@@ -737,7 +737,7 @@ a[href*='tel'], a[href*='mailto'] {
 .box-modern-title {
 	font-size: 14px;
 	font-weight: 500;
-	text-transform: uppercase;
+	
 	color: #000000;
 	letter-spacing: -.015em;
 }
@@ -1558,7 +1558,7 @@ img {
 	font-size: 14px;
 	font-weight: 700;
 	letter-spacing: .05em;
-	text-transform: uppercase;
+	
 	background: rgba(255, 255, 255, 0.6);
 }
 
@@ -1968,7 +1968,7 @@ hr {
 	font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 	font-weight: 600;
 	letter-spacing: .05em;
-	text-transform: uppercase;
+	
 	transition: .33s;
 }
 
@@ -2523,7 +2523,7 @@ textarea.form-input {
 }
 
 .box-cta-text p {
-	text-transform: uppercase;
+	
 }
 
 .pricing-box {
@@ -2688,7 +2688,7 @@ textarea.form-input {
 	position: relative;
 	font-size: 14px;
 	font-weight: 500;
-	text-transform: uppercase;
+	
 	padding-left: 7px;
 }
 
@@ -2978,7 +2978,7 @@ textarea.form-input {
 .snackbars-right {
 	display: inline-block;
 	float: right;
-	text-transform: uppercase;
+	
 }
 
 .snackbars-right:hover {
@@ -3006,7 +3006,7 @@ textarea.form-input {
 
 .footer-classic-title {
 	font-size: 14px;
-	text-transform: uppercase;
+	
 	color: rgba(255, 255, 255, 0.4);
 }
 
@@ -3801,7 +3801,7 @@ html [class*='section-'].section-bottom-0 {
 	display: inline-block;
 	min-width: 170px;
 	font-size: 13px;
-	text-transform: uppercase;
+	
 }
 
 .text-decoration-lines-content::before, .text-decoration-lines-content::after {
@@ -5887,7 +5887,7 @@ html.rd-navbar-fixed-linked header {
 	padding: 10px 30px;
 	color: #f6b802;
 	font-size: 14px;
-	text-transform: uppercase;
+	
 	text-decoration: none;
 	background-color: transparent;
 	border: 1px solid #f6b802;
@@ -6116,7 +6116,7 @@ html.rd-navbar-fixed-linked header {
 	line-height: 1.16667;
 	font-weight: 700;
 	font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-	text-transform: uppercase;
+	
 	letter-spacing: -0.02em;
 	white-space: nowrap;
 }
@@ -6224,7 +6224,7 @@ html.rd-navbar-fixed-linked header {
 	line-height: 1;
 	font-weight: 800;
 	letter-spacing: .1em;
-	text-transform: uppercase;
+	
 	font-family: "Montserrat", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
 	color: rgba(196, 196, 196, 0.05);
 	transform: translate3d(-50%, 0, 0);
@@ -6407,7 +6407,7 @@ html.rd-navbar-fixed-linked header {
 	position: relative;
 	display: inline-block;
 	vertical-align: middle;
-	text-transform: uppercase;
+	
 }
 
 .project-mary-panel-item + .project-mary-panel-item::before {

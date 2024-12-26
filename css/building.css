@@ -25,7 +25,7 @@ h2 {
     padding: 10px 30px;
     float: left;
     border-radius: 50px;
-    text-transform: uppercase;
+    
     transition: ease all 1s;
 }
 .read-more:hover {
@@ -64,7 +64,7 @@ h2 {
 }
 .building_version .navbar-default .navbar-brand span {
     color: #fff;
-    text-transform: uppercase;
+    
     margin: 20px 0 0 0;
     float: left;
     font-size: 22px;
@@ -150,7 +150,7 @@ h2 {
 body.building_version .section-title h3 {
     font-weight: bold;
     color: #1f1f1f;
-    text-transform: uppercase;
+    
 }
 #services .section-title p {
     color: #666;
@@ -361,7 +361,7 @@ ul.service-list li {
 .service-info-cont h4 {
     margin-top: -10px;
     font-weight: 700;
-    text-transform: uppercase;
+    
     font-size: 16px;
     padding: 10px 0 10px 0;
 }
@@ -403,7 +403,7 @@ div#services .service-inform-text h3 {
     color: #333;
     padding: 0;
     margin: 15px 0 10px;
-    text-transform: uppercase;
+    
     font-weight: 700;
     font-size: 18px;
 }
@@ -422,7 +422,7 @@ div#services .serv .service-inform-text h3 {
     color: #e8a900;
     padding: 0;
     margin: 15px 0 10px;
-    text-transform: uppercase;
+    
     font-weight: 700;
     font-size: 18px;
     text-shadow: 1px 1px 0 #111;
@@ -463,7 +463,7 @@ div#services .serv .service-inform-text p {
 .serv-blog-cont h3 {
     margin: 25px 0 0 0;
     padding: 0;
-    text-transform: uppercase;
+    
     font-weight: 600;
 }
 #services .serv-blog-cont h3 {
